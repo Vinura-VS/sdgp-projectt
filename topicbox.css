@@ -1,13 +1,28 @@
 .topicBox{
-    background-color: rgb(255, 0, 102);
-    width: 60%;
-    height: 100px;
+    background-color: #cb1b1b;
+    text-align: center;
+    width: 70%;
+    height: 70px;
     border-radius:30px;   
+    margin-left: 250px;
 }
 
 .text{
     font-size: 50px;
     font-family: roboto;
-    color: white;
+    color: rgb(97, 18, 18);
     margin-left: 10px;
+}
+
+.button{
+   
+    background-color: rgb(242, 231, 231); 
+    color: rgb(235, 28, 28); 
+    padding: 65px 72px;
+    cursor: pointer;
+    font-size: 35px;
+   
+   
+  
+    
 }
